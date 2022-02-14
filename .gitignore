@@ -1,3 +1,6 @@
+/.idea
+/.github
+/.gitignore
 /public/assets
 /public/css
 /public/js
